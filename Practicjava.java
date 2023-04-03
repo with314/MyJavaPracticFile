@@ -11,8 +11,5 @@ class Circle{
 		
 		System.out.println("hannkei : " + radius);
 		System.out.println("mennseki : " + area);
-
-   
-  
-  }
+    }
 }
